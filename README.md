@@ -1,7 +1,7 @@
 L3AlgoTP3
 =========
 
-Correcteur ortographiqu
+Correcteur ortographique
 
 2013 Tp Algo
 
